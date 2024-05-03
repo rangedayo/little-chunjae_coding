@@ -1,0 +1,47 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  letter-spacing: -1px;
+  font-family: "NanumSquareRound", sans-serif;
+  color: #333;
+}
+
+img {
+  width: 100%;
+  display: block;
+  border: 0;
+  object-fit: cover;
+}
+
+a {
+  text-decoration: none;
+  display: block;
+  color: #333;
+}
+
+ul,
+li {
+  list-style: none;
+}
+
+section {
+  background-color: #fff;
+  position: relative;
+}
+
+/* swiper */
+html,
+body {
+  position: relative;
+  height: 100%;
+}
+
+.swiper-slide {
+  background-position: center;
+  background-size: cover;
+}
+
+.img_wrap {
+  width: 100%;
+}
