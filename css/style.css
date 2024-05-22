@@ -141,10 +141,11 @@ header input {
 }
 
 .section_1 h2 {
-  font-size: 90px;
+  font-size: 110px;
+  line-height: 130px;
   font-weight: 900;
   color: #f35c1c;
-  margin-bottom: 30px;
+  margin-bottom: 10px;
 }
 
 .section_1 h5 {
@@ -197,7 +198,8 @@ header input {
 
 @media screen and (max-width: 1500px) {
   .section_1 h2 {
-    font-size: 75px;
+    font-size: 84px;
+    line-height: 100px;
   }
 
   .section_1 h5 {
@@ -215,8 +217,9 @@ header input {
   }
 
   .section_1 h2 {
-    font-size: 60px;
-    margin-bottom: 25px;
+    font-size: 70px;
+    line-height: 80px;
+    margin-bottom: 15px;
   }
 
   .section_1 h5 {
@@ -282,8 +285,13 @@ header input {
   }
 
   .section_1 h2 {
-    font-size: 53px;
-    margin-bottom: 20px;
+    font-size: 57px;
+    line-height: 70px;
+    margin-bottom: 15px;
+  }
+
+  .section_1 .con:nth-child(2) br {
+    display: none;
   }
 
   .section_1 h5 {
@@ -303,7 +311,8 @@ header input {
   }
 
   .section_1 h2 {
-    font-size: 37px;
+    font-size: 45px;
+    line-height: 55px;
     margin-bottom: 11px;
   }
 
