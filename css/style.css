@@ -145,7 +145,7 @@ header input {
   line-height: 130px;
   font-weight: 900;
   color: #f35c1c;
-  margin-bottom: 10px;
+  margin-bottom: 20px;
 }
 
 .section_1 h5 {
@@ -219,7 +219,6 @@ header input {
   .section_1 h2 {
     font-size: 70px;
     line-height: 80px;
-    margin-bottom: 15px;
   }
 
   .section_1 h5 {
